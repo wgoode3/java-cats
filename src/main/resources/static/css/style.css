@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;	
+}
+
+body {
+	/* background-color: lightcyan; */
+	font-family: Arial, sans-serif;
+}
+
+.container {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+h1 {
+	background-color: rebeccapurple;
+	font-size: 48px;
+	color: white;
+	padding: 10px;
+	text-align: center;
+	font-weight: 100;
+}
